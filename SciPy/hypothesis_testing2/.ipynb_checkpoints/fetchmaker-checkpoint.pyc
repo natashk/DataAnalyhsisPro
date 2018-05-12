@@ -1,0 +1,19 @@
+�
+��WZc@s|ddlZddlZejd�Zd�Zd�Zd�Zd�Z	d�Z
+d�Zd	�Zd
+�Z
+d�ZdS(i����Nsdog_data.csvcCsk|tjj�krR|tjkr:ttd|k|Stdj|���ntdj|���dS(NtbreedsAttribute {} does not exist.sBreed {} does not exist.(tdogsRtuniquetcolumnst	NameErrortformat(Rt	attribute((s[/home/ccuser/workspace/learn-hypothesis-testing-hypothesis-testing-fetchmaker/fetchmaker.pyt
+get_attributes
+cCs
+t|d�S(Ntweight(R(R((s[/home/ccuser/workspace/learn-hypothesis-testing-hypothesis-testing-fetchmaker/fetchmaker.pyt
+get_weightscCs
+t|d�S(Nttail_length(R(R((s[/home/ccuser/workspace/learn-hypothesis-testing-hypothesis-testing-fetchmaker/fetchmaker.pytget_tail_lengthscCs
+t|d�S(Ntcolor(R(R((s[/home/ccuser/workspace/learn-hypothesis-testing-hypothesis-testing-fetchmaker/fetchmaker.pyt	get_colorscCs
+t|d�S(Ntage(R(R((s[/home/ccuser/workspace/learn-hypothesis-testing-hypothesis-testing-fetchmaker/fetchmaker.pytget_agescCs
+t|d�S(Nt	is_rescue(R(R((s[/home/ccuser/workspace/learn-hypothesis-testing-hypothesis-testing-fetchmaker/fetchmaker.pyt
+get_is_rescuescCs
+t|d�S(Ntlikes_children(R(R((s[/home/ccuser/workspace/learn-hypothesis-testing-hypothesis-testing-fetchmaker/fetchmaker.pytget_likes_childrenscCs
+t|d�S(Ntis_hypoallergenic(R(R((s[/home/ccuser/workspace/learn-hypothesis-testing-hypothesis-testing-fetchmaker/fetchmaker.pytget_is_hypoallergenic"scCs
+t|d�S(Ntname(R(R((s[/home/ccuser/workspace/learn-hypothesis-testing-hypothesis-testing-fetchmaker/fetchmaker.pytget_name%s(tpandastpdtnumpytnptread_csvRRR	RR
+RRRRR(((s[/home/ccuser/workspace/learn-hypothesis-testing-hypothesis-testing-fetchmaker/fetchmaker.pyt<module>s	
+							
