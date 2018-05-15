@@ -1,5 +1,5 @@
 import numpy as np
-import "fetchmaker"
+import fetchmaker
 from scipy.stats import binom_test
 from scipy.stats import f_oneway
 from statsmodels.stats.multicomp import pairwise_tukeyhsd
